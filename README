@@ -1,0 +1,24 @@
+# Hermes FG Compliance Documentation Portfolio
+
+Welcome to the documentation suite for **Hermes FG**, a fictional, cross-border financial platform combining retail asset trading with regulated prediction markets (CFTC & ESMA compliant). 
+
+This repository serves as a professional portfolio demonstrating the conversion of complex financial regulations into clear, plain-language technical documentation.
+
+## Portfolio Highlights & Methodologies
+
+*   **Diátaxis Framework:** Structured systematically into Tutorials, How-To Guides, Reference, and Explanations to maximize user task efficiency.
+*   **Federal Plain Language Guidelines:** Designed to strip out dense legalese while maintaining strict compliance integrity.
+*   **Human-in-the-Loop (HITL) Integration:** Documents specifically address the governance of AI systems by human compliance officers.
+*   **Visual Architecture:** Complex workflows are mapped natively using Mermaid.js diagrams.
+
+## Documentation Index
+
+1.  **Tutorial:** [Setting Up Your Account & Cross-Border KYC Verification](docs/tutorials/onboarding-kyc.md) — *An onboarding guide balancing US/EU identity requirements.*
+2.  **How-To Guide:** [Escalating and Resolving Event Market Disputes](docs/how-to/dispute-resolution.md) — *Step-by-step internal procedures for handling contested prediction market payouts.*
+3.  **Reference:** [Transatlantic FinTech Compliance Lexicon](docs/reference/compliance-lexicon.md) — *A quick-glance cross-reference guide for US vs. EU regulatory terms.*
+4.  **Explanation:** [AI Risk Mitigation & HITL Protocol](docs/explanation/ai-hitl-framework.md) — *A deep-dive concept paper on how Hermes FG leverages AI without sacrificing human accountability.*
+
+---
+**Author:** Claire Barnes (claire4clarity)  
+**Role:** FinTech Technical Writer & Compliance Specialist  
+**Tools Used:** Markdown, Diátaxis, Mermaid.js, Federal Plain Language Standards

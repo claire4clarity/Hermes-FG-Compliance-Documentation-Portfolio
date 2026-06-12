@@ -64,7 +64,7 @@ Follow the track that matches your selected jurisdiction:
 * **Track B: European Union Residents**
 
 1. Confirm your country of citizenship.
-2. Upload a clear, glare-free photograph of your** Passport** or **National ID card**. Ensure all four corners of the document are visible in the image frame.
+2. Upload a clear, glare-free photograph of your **Passport** or **National ID card**. Ensure all four corners of the document are visible in the image frame.
 3. Upload a PDF copy of your **Proof of Address**. The document name must match the name on your photo ID exactly.
 
 ### Step 3: Await Verification Results

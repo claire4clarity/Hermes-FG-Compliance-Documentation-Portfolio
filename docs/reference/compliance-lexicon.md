@@ -8,13 +8,13 @@ standards: Federal Plain Language Guidelines
 author: Claire Barnes (claire4clarity)
 ---
 
-# Transatlantic FinTech Compliance Lexicon
+## Transatlantic FinTech Compliance Lexicon
 
-Because Hermes FG operates in both the United States (under FinCEN and the CFTC) and Europe (under ESMA and national regulators), operational teams must navigate two distinct legal vocabularies. 
+Because Hermes FG operates in both the United States (under FinCEN and the CFTC) and Europe (under ESMA and national regulators), operational teams must navigate two distinct legal vocabularies.
 
 This reference guide maps equivalent regulatory terms and concepts across both jurisdictions to ensure consistent reporting.
 
-## Identity & Anti-Financial Crime Mapping
+### Identity & Anti-Financial Crime Mapping
 
 | United States (FinCEN / CFTC) | European Union (ESMA / AMLD) | Operational Definition (Plain Language) |
 | :--- | :--- | :--- |
@@ -23,7 +23,7 @@ This reference guide maps equivalent regulatory terms and concepts across both j
 | **SSN** (Social Security Number) | **TIN** (Tax Identification Number) | The primary unique government-issued numerical identifier used to verify user tax profiles. |
 | **SAR** (Suspicious Activity Report) | **STR** (Suspicious Transaction Report) | The formal alert filed by a compliance officer to authorities when a user's trading patterns indicate potential fraud or laundering. |
 
-## Market Integrity & Trading Jargon
+### Market Integrity & Trading Jargon
 
 | United States (CFTC) | European Union (MiFID II) | Operational Definition (Plain Language) |
 | :--- | :--- | :--- |
